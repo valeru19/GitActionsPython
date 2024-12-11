@@ -1,6 +1,6 @@
 # test_my_lib.py
 import pytest
-import my_lib
+from GitActionsPython import my_lib
 
 
 # Тесты для функции чисел Фибоначчи
